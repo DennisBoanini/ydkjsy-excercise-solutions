@@ -1,13 +1,21 @@
 {
   "name": "ydkjsy_excercise",
   "version": "1.0.0",
-  "description": "",
+  "description": "This repo contains solutions to the exercises proposed on the book YDKJSY",
   "main": "comparisons.js",
   "scripts": {
     "test": "tap",
     "start": "node chapter_1/comparisons.js"
   },
-  "author": "",
+  "author": "Dennis A. Boanini <dennis.boanini01@gmail.com> (www.linkedin.com/in/dennisboanini)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DennisBoanini/ydkjsy-excercise-solutions"
+  },
+  "bugs": {
+    "url": "https://github.com/DennisBoanini/ydkjsy-excercise-solutions/issues",
+    "email": "dennis.boanini01@gmail.com"
+  },
   "license": "ISC",
   "dependencies": {
     "tap": "^15.0.10"
