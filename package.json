@@ -1,0 +1,15 @@
+{
+  "name": "ydkjsy_excercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "comparisons.js",
+  "scripts": {
+    "test": "tap",
+    "start": "node chapter_1/comparisons.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tap": "^15.0.10"
+  }
+}
