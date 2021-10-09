@@ -1,6 +1,6 @@
 # You Don't Know Javascript Yet - My exercise solution
 
-With this repo I want to share my solutions for the exercise proposed in the book series [YDKJY](https://github.com/getify/You-Dont-Know-JS)
+With this repo I want share with you my solutions for the exercise proposed in the book series [YDKJY](https://github.com/getify/You-Dont-Know-JS)
 
 Every exercise is in his relative folder.
 
