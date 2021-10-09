@@ -1,4 +1,4 @@
-# You Don't Know Javascript Yet - My excercise solution
+# You Don't Know Javascript Yet - My exercise solution
 
 With this repo I want to share my solutions for the exercise proposed in the book series [YDKJY](https://github.com/getify/You-Dont-Know-JS)
 
